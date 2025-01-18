@@ -1,0 +1,22 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=079356e8_002D6b62_002D4786_002D927a_002D7a8fe1d6b837/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Create_ShouldReturnSuccess_WhenUserIsCreated #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::9FB5E517-6668-4BED-91AC-071CB51EE5BA::net8.0::MonsterTradingCardsGame.Tests.Repositories.UserRepositoryTests.Create_ShouldReturnSuccess_WhenUserIsCreated&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=633cba15_002D22bd_002D42af_002D8260_002D60ee621ba3e5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Create_ShouldReturnSuccess_WhenUserIsCreated" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::9FB5E517-6668-4BED-91AC-071CB51EE5BA::net8.0::MonsterTradingCardsGame_nUnit.CardRepositoryTests.Create_ShouldReturnSuccess_WhenMonsterCardIsCreated&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::9FB5E517-6668-4BED-91AC-071CB51EE5BA::net8.0::MonsterTradingCardsGame_nUnit.CardRepositoryTests.Create_ShouldReturnBadRequest_WhenCardIsNull&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::9FB5E517-6668-4BED-91AC-071CB51EE5BA::net8.0::MonsterTradingCardsGame_nUnit.CardRepositoryTests.Create_ShouldThrowArgumentNullException_WhenCardIsNull&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::9FB5E517-6668-4BED-91AC-071CB51EE5BA::net8.0::MonsterTradingCardsGame_nUnit.CardRepositoryTests.GetCardsByUserId_ShouldReturnBadRequest_WhenUserIdIsEmpty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::9FB5E517-6668-4BED-91AC-071CB51EE5BA::net8.0::MonsterTradingCardsGame_nUnit.CardRepositoryTests.Update_ShouldReturnSuccess_WhenPackageAndUserAreValid&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::9FB5E517-6668-4BED-91AC-071CB51EE5BA::net8.0::MonsterTradingCardsGame_nUnit.CardRepositoryTests.GetCardsByUserId_ShouldReturnCards_WhenUserIdIsValid&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::9FB5E517-6668-4BED-91AC-071CB51EE5BA::net8.0::MonsterTradingCardsGame_nUnit.TradingRepositoryTests.Create_ShouldReturnError_WhenGuidDoesntExist&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=666bf32e_002D667c_002D4974_002Da678_002D822701ac80ac/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Update_ShouldReturnSuccess_WhenPackageAndUserAreValid" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::9FB5E517-6668-4BED-91AC-071CB51EE5BA::net8.0::MonsterTradingCardsGame_nUnit.CardRepositoryTests.Update_ShouldReturnSuccess_WhenPackageAndUserAreValid&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
